@@ -1,0 +1,3 @@
+[submodule "language-java-doit"]
+	path = language-java-doit
+	url = https://github.com/inorrni/language-java-doit.git
